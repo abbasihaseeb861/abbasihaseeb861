@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi, I'm Haseeb Ahmad Abbasi 👋
 
-<!--
-**abbasihaseeb861/abbasihaseeb861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BS Bioinformatics | Prostate Cancer Research | Python**
 
-Here are some ideas to get you started:
+I'm working on Human Prostate Cancer biomarker discovery using GEO datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Current Pipeline:**
+1. GEO Datasets (GSE46602, GSE69223) -> Filtering (p<0.05, log2FC>1)
+2. Common DEGs via Venn Diagram
+3. PPI Network via STRING Database
+4. Hub Genes via Cytoscape (CytoHubba)
+
+**Tech Stack:**
+Python | R | STRING | Cytoscape | Biopython | Scikit-learn | TCGA | GEO
+
+**My Projects:**
+- 🔬 Prostate-Cancer-Biomarker-Analysis (Main Thesis - Hub genes + ML model)
+- 🧬 Breast-Cancer-Biomarker-Analysis (TCGA RNA-seq)
+
+**Contact:**
+📧 abbasihaseeb861@gmail.com
+📍 Rawalpindi, Pakistan
+
+> Goal: Masters in Cancer Genomics (Korea/China)
