@@ -15,7 +15,7 @@ Python | R | STRING | Cytoscape | Biopython | Scikit-learn | TCGA | GEO
 
 **My Projects:**
 - 🔬 Prostate-Cancer-Biomarker-Analysis (Main Thesis - Hub genes + ML model)
-- 🧬 Breast-Cancer-Biomarker-Analysis (TCGA RNA-seq)
+
 
 **Contact:**
 📧 abbasihaseeb861@gmail.com
