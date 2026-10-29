@@ -21,4 +21,4 @@ Python | R | STRING | Cytoscape | Biopython | Scikit-learn | TCGA | GEO
 📧 abbasihaseeb861@gmail.com
 📍 Rawalpindi, Pakistan
 
-> Goal: Masters in Cancer Genomics (Korea/China)
+
